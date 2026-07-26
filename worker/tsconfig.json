@@ -11,5 +11,5 @@
     "esModuleInterop": true,
     "isolatedModules": true
   },
-  "include": ["**/*.ts"]
+  "include": ["**/*.ts", "../src/lib/wine-schema.ts"]
 }

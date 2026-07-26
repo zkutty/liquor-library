@@ -13,6 +13,8 @@
     "scan:seagrape": "node scripts/scan-seagrape-pdfs.mjs",
     "test": "node --experimental-strip-types --test tests/*.test.mjs tests/*.test.mts",
     "cf:typecheck": "tsc -p worker/tsconfig.json",
+    "db:migrate:local": "wrangler d1 migrations apply liquor-library --local",
+    "db:migrate": "wrangler d1 migrations apply liquor-library --remote",
     "cf:preview": "npm run build && wrangler dev",
     "cf:deploy": "npm run build && wrangler deploy",
     "cf:typegen": "wrangler types"

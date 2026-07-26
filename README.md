@@ -54,6 +54,49 @@ Deploying requires `CLOUDFLARE_API_TOKEN` in the environment (or an interactive
 `GET /api/health` reports whether D1 and R2 are reachable, returning 200 when
 both are healthy and 503 otherwise. Use it to verify a deploy.
 
+### Cellar data
+
+Records live in D1. `migrations/` holds the schema; apply it with
+`npm run db:migrate:local` for local development and `npm run db:migrate` for
+the deployed database. The schema is already applied to the remote database, and
+the migration is written to be safe to re-run.
+
+The `wines.data` column holds the full validated record and is the source of
+truth. The other columns are a projection derived on write, so the terroir atlas
+and cellar insights can filter and aggregate in SQL without parsing every row.
+
+| Route | Purpose |
+| --- | --- |
+| `GET /api/wines` | List the cellar |
+| `POST /api/wines` | Create a bottle |
+| `GET /api/wines/:id` | Read one bottle |
+| `PUT /api/wines/:id` | Replace one bottle |
+| `DELETE /api/wines/:id` | Remove one bottle |
+| `POST /api/import` | Bulk upsert, used by migration and restore |
+| `GET /api/export` | Full backup, in the shape `/api/import` accepts |
+| `GET /api/stats` | Record count |
+| `GET /api/health` | Binding and Access status |
+
+Writes are validated against `wineBottleSchema`, which the Worker and the client
+share so the two cannot disagree about the model.
+
+### Migrating off browser storage
+
+On first load against an empty database the app performs a one-time migration:
+records under the old `wine-cellar-v3` key are pushed up, and if there are none
+the bundled seed is used instead. Imports are keyed by id, so re-running one
+cannot duplicate a bottle.
+
+If the API is unreachable — the case under `npm run dev`, where no Worker is
+running — the app falls back to browser storage and the header reads
+"This browser only" instead of "Synced", so unsynced data is never mistaken for
+saved data. Use `npm run cf:preview` to develop against the real stack.
+
+### Backup and restore
+
+`GET /api/export` downloads the full cellar as JSON. Restore by posting that
+file's `wines` array back to `POST /api/import`.
+
 ### Private access
 
 The site is owner-only. Access is enforced in two layers.
