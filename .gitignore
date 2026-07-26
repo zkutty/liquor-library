@@ -7,5 +7,7 @@ tmp/
 tsconfig.tsbuildinfo
 .env
 .env.local
+.dev.vars
+.wrangler/
 .DS_Store
 *.tsbuildinfo
