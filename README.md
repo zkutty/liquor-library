@@ -54,6 +54,30 @@ Deploying requires `CLOUDFLARE_API_TOKEN` in the environment (or an interactive
 `GET /api/health` reports whether D1 and R2 are reachable, returning 200 when
 both are healthy and 503 otherwise. Use it to verify a deploy.
 
+### Private access
+
+The site is owner-only. Access is enforced in two layers.
+
+**1. Cloudflare Access at the edge (primary).** In the Cloudflare dashboard, go
+to Workers & Pages → `liquor-library` → Settings → Domains & Routes and select
+**Enable Cloudflare Access** for the `workers.dev` URL. This creates a reusable
+`liquor-library - Production` policy; edit it under Zero Trust → Access →
+Applications to restrict it to the owner's email. No custom domain is required.
+
+**2. Assertion verification in the Worker (defence in depth).** Set these Worker
+variables so the Worker independently verifies the signed Access assertion:
+
+| Variable | Value |
+| --- | --- |
+| `ACCESS_TEAM_DOMAIN` | `<your-team>.cloudflareaccess.com` |
+| `ACCESS_AUD` | The Application Audience tag from the Access application |
+
+With both set, `/api/*` requires a valid RS256 assertion whose audience and
+issuer match. Without them the Worker cannot verify anything and defers to the
+edge, and `/api/health` reports `access: "not configured"` so the gap is
+visible. `/api/health` never returns collection data and stays reachable so a
+deploy can be verified before Access is configured.
+
 ### Rollback
 
 Every deploy creates a new Worker version. Roll back from the Cloudflare
