@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useState } from "react";
 import seedWines from "@/data/cellar.seed.json";
 import type { WineBottle } from "@/lib/wine-schema";
-import { loadStoredWines, saveStoredWines } from "@/lib/wine-store";
+import { createWine, loadCellar, saveWine, type CellarSource } from "@/lib/wine-store";
 
 const OCC_COLORS: Record<string, string> = {
   "🌹 Tonight": "#c0392b",
@@ -79,11 +79,17 @@ export default function WineCellar() {
   const [pairingText, setPairingText] = useState("");
   const [toast, setToast] = useState<string | null>(null);
   const [saving, setSaving] = useState(false);
+  const [source, setSource] = useState<CellarSource>("cloud");
 
   useEffect(() => {
-    void loadStoredWines(seedWines as WineBottle[]).then((loadedWines) => {
-      setWines(loadedWines);
-      setSelected(loadedWines.find(isInCellar) ?? loadedWines[0] ?? null);
+    void loadCellar(seedWines as WineBottle[]).then((loaded) => {
+      setWines(loaded.wines);
+      setSelected(loaded.wines.find(isInCellar) ?? loaded.wines[0] ?? null);
+      setSource(loaded.source);
+
+      if (loaded.migrated > 0) {
+        showToast(`Moved ${loaded.migrated} bottles from this browser to the cloud`);
+      }
     });
   }, []);
 
@@ -94,13 +100,13 @@ export default function WineCellar() {
     return source.filter((wine) => filter === "All" || wine.style === filter);
   }, [cellar, drunk, filter, view]);
 
-  async function persist(updatedWines: WineBottle[]) {
+  async function persist(wine: WineBottle, updatedWines: WineBottle[], isNew = false) {
     setSaving(true);
     try {
-      await saveStoredWines(updatedWines);
-      showToast("Saved");
-    } catch {
-      showToast("Save error");
+      await (isNew ? createWine : saveWine)(wine, source, updatedWines);
+    } catch (error) {
+      console.error("Failed to save", error);
+      showToast("Save failed — changes are not stored");
     } finally {
       setSaving(false);
     }
@@ -125,14 +131,16 @@ export default function WineCellar() {
   function markDrunk(wine: WineBottle) {
     if (!wines) return;
 
-    const updatedWines = wines.map((item) =>
-      item.id === wine.id
-        ? { ...item, status: "drunk" as const, drunkDate: new Date().toLocaleDateString(), updatedAt: new Date().toISOString() }
-        : item,
-    );
+    const drunkWine: WineBottle = {
+      ...wine,
+      status: "drunk",
+      drunkDate: new Date().toLocaleDateString(),
+      updatedAt: new Date().toISOString(),
+    };
+    const updatedWines = wines.map((item) => (item.id === wine.id ? drunkWine : item));
 
     setWines(updatedWines);
-    void persist(updatedWines);
+    void persist(drunkWine, updatedWines);
     setSelected(updatedWines.find(isInCellar) ?? updatedWines[0] ?? null);
     showToast(`"${wine.name}" moved to drunk log`);
   }
@@ -140,15 +148,16 @@ export default function WineCellar() {
   function restore(wine: WineBottle) {
     if (!wines) return;
 
-    const updatedWines = wines.map((item) =>
-      item.id === wine.id
-        ? { ...item, status: "in_cellar" as const, drunkDate: null, updatedAt: new Date().toISOString() }
-        : item,
-    );
-    const restored = updatedWines.find((item) => item.id === wine.id) ?? wine;
+    const restored: WineBottle = {
+      ...wine,
+      status: "in_cellar",
+      drunkDate: null,
+      updatedAt: new Date().toISOString(),
+    };
+    const updatedWines = wines.map((item) => (item.id === wine.id ? restored : item));
 
     setWines(updatedWines);
-    void persist(updatedWines);
+    void persist(restored, updatedWines);
     setSelected(restored);
     showToast(`"${wine.name}" restored`);
   }
@@ -173,7 +182,7 @@ export default function WineCellar() {
     const updatedWines = [...wines, wine];
 
     setWines(updatedWines);
-    void persist(updatedWines);
+    void persist(wine, updatedWines, true);
     setSelected(wine);
     setShowAdd(false);
     setForm(BLANK);
@@ -192,7 +201,9 @@ export default function WineCellar() {
       <header className="topbar">
         <div className="topbar-inner">
           <div>
-            <p className="eyebrow">Personal Collection · Synced</p>
+            <p className="eyebrow">
+              Personal Collection · {source === "cloud" ? "Synced" : "This browser only"}
+            </p>
             <h1>Wine Cellar</h1>
             <p className="summary">
               {cellar.length} in cellar · {drunk.length} drunk {saving ? "· saving..." : ""}
