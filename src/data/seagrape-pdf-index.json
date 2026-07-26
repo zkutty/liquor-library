@@ -1,0 +1,199 @@
+[
+  {
+    "id": "seagrape-melaric-le-tandem-l23",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape 3.pdf",
+    "page": 1,
+    "producer": "Melaric",
+    "name": "Le Tandem L23 Rouge",
+    "vintage": 2023,
+    "country": "France",
+    "region": "Loire Valley",
+    "varietals": [
+      "Cabernet Franc",
+      "Grolleau"
+    ],
+    "matchedWineIds": [
+      "melaric-le-tandem-l23"
+    ],
+    "summary": "Light-bodied Loire red from Saumur-area vineyards; L23 indicates the 2023 vintage. Cabernet Franc brings structure and earthy spice while Grolleau contributes snappy red fruit and vibrant acidity. Notes include raspberry, sour cherry, cranberry, hibiscus or violet, and subtle pepper. Best lightly chilled with charcuterie, creamy salads, soft cheeses, mushrooms, light poultry, or grilled pork."
+  },
+  {
+    "id": "seagrape-cantine-olivella-lacrima-bianco",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape 3.pdf",
+    "page": 2,
+    "producer": "Cantine Olivella",
+    "name": "Lacrima Bianco",
+    "vintage": 2023,
+    "country": "Italy",
+    "region": "Campania",
+    "varietals": [
+      "Caprettone",
+      "Catalanesca"
+    ],
+    "matchedWineIds": [
+      "cantine-olivella-lacrimabianco"
+    ],
+    "summary": "Volcanic Campanian white from the slopes around Mount Somma and Vesuvius. The page describes an 80% Caprettone and 20% Catalanesca blend, with golden apple, yellow peach, white floral notes, flinty or smoky mineral presence, rounded texture, zesty citrus tension, and a long saline finish. Suggested pairings include grilled octopus, sea bass baked in salt, spaghetti alle vongole, zucchini flower pasta, provolone, and Caprese with buffalo mozzarella."
+  },
+  {
+    "id": "seagrape-domaine-chavy-bourgogne-blanc",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape Wines.pdf",
+    "page": 1,
+    "producer": "Domaine Chavy",
+    "name": "Bourgogne Blanc",
+    "vintage": 2021,
+    "country": "France",
+    "region": "Burgundy",
+    "varietals": [
+      "Chardonnay"
+    ],
+    "matchedWineIds": [
+      "historical-domaine-chavy-bourgogne-blanc-2021"
+    ],
+    "summary": "Classic white Burgundy from a Puligny-Montrachet family producer. Notes emphasize citrus, white florals, mineral character, crisp acidity, medium body, smooth texture, and subtle oak. Pair with seafood, roasted poultry, asparagus, mushroom risotto, soft cheeses, and butter or citrus sauces."
+  },
+  {
+    "id": "seagrape-chameau-balland-maison-blanche-sancerre-rouge",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape Wines.pdf",
+    "page": 2,
+    "producer": "Chameau Balland et Fils",
+    "name": "La Maison Blanche Sancerre Rouge",
+    "vintage": 2021,
+    "country": "France",
+    "region": "Loire Valley",
+    "varietals": [
+      "Pinot Noir"
+    ],
+    "matchedWineIds": [
+      "historical-chameau-balland-maison-blanche-sancerre-rouge-2021"
+    ],
+    "summary": "Red Sancerre from Bue, with floral notes, cherry, raspberry, strawberry, blackberry, plum, earth, crushed rocks, pepper, oak spice, light to medium body, fresh acidity, and soft refined tannins. Pair with veal, poultry, game, salmon, tuna, mushroom risotto, charcuterie, and soft cheeses."
+  },
+  {
+    "id": "seagrape-entre-cantos-martinolo-branco",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape Wines.pdf",
+    "page": 3,
+    "producer": "Entre Cantos",
+    "name": "Martinolo Branco",
+    "vintage": 2020,
+    "country": "Spain",
+    "region": "Galicia",
+    "varietals": [
+      "Godello",
+      "Caino Blanco"
+    ],
+    "matchedWineIds": [
+      "historical-entre-cantos-martinolo-branco-2020"
+    ],
+    "summary": "Distinctive Galician white from an 85% Godello and 15% Caino Blanco blend. The page notes clay, silt, pebbles, slate, and alluvium near the Sil River, spontaneous fermentation, 12 months in used French oak foudre, six months in stainless steel, white melon, textured mid-bodied fruit, vibrant minerality, saline edge, long slightly bitter finish, floral nuance, and sandalwood spice."
+  },
+  {
+    "id": "seagrape-marcobarba-barbarossa-rosso",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape Wines.pdf",
+    "page": 4,
+    "producer": "Marcobarba",
+    "name": "Barbarossa Rosso",
+    "vintage": 2022,
+    "country": "Italy",
+    "region": "Veneto",
+    "varietals": [
+      "Cabernet Sauvignon",
+      "Corvina",
+      "Merlot",
+      "Rondinella"
+    ],
+    "matchedWineIds": [
+      "historical-marcobarba-barbarossa-rosso-2022"
+    ],
+    "summary": "Biodynamic, minimal-intervention Veneto field blend associated with the Marcobarba project and Menti Winery. Notes include cherries, raspberries, strawberries, darker berries, earth, spice, cardamom, balsamic or herbaceous complexity, medium body, lively acidity, soft tannins, and slight-chill drinkability. Pair with grilled lamb, bean stews, pizza, cured meats, and semi-aged cheeses."
+  },
+  {
+    "id": "seagrape-marc-pesnot-la-boheme",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape Wines.pdf",
+    "page": 5,
+    "producer": "Marc Pesnot",
+    "name": "La Boheme",
+    "vintage": 2023,
+    "country": "France",
+    "region": "Loire",
+    "varietals": [
+      "Melon de Bourgogne"
+    ],
+    "matchedWineIds": [
+      "historical-marc-pesnot-la-boheme-2023"
+    ],
+    "summary": "Pays Nantais white from Melon de Bourgogne with a broader, creamier profile than typical Muscadet. Notes include cloudy straw color, white flowers, pear, green apple, mineral, buttery or honeyed undertones, succulent minerality, and vibrant acidity. Pair with oysters, shellfish, grilled or fried fish, garden salads, creamy clam chowder, and smoky bacon-accented dishes."
+  },
+  {
+    "id": "seagrape-domaine-godelu-la-foret-gasselin-sancerre-rouge",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape Wines.pdf",
+    "page": 6,
+    "producer": "Domaine Godelu",
+    "name": "La Foret Gasselin Sancerre Rouge",
+    "vintage": 2019,
+    "country": "France",
+    "region": "Loire Valley",
+    "varietals": [
+      "Pinot Noir"
+    ],
+    "matchedWineIds": [
+      "legacy-9"
+    ],
+    "summary": "Fruit-forward red Sancerre with cherry, cherry core, crushed raspberry, juicy red plum, strawberry, violet, pepper, toast, cardamom, subtle spice, fresh plum, cassis, red raspberry, ripe almond, and a very subtle chocolate note. The page describes sustainable vineyard practices, Pinot Noir grown on clay-limestone soils, and pairings with grilled or roasted poultry, duck breast, pork tenderloin, salmon, charcuterie, soft cheeses, mushrooms, light pasta, and leaner burgers."
+  },
+  {
+    "id": "seagrape-destinos-cruzados-detras-da-casa-larga-rias-baixas-blanco",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape wines 2.pdf",
+    "page": 1,
+    "producer": "Destinos Cruzados",
+    "name": "Detras Da Casa Larga Rias Baixas Blanco",
+    "vintage": 2023,
+    "country": "Spain",
+    "region": "Rias Baixas",
+    "varietals": [
+      "Albarino",
+      "Treixadura"
+    ],
+    "matchedWineIds": [
+      "historical-destinos-cruzados-detras-da-casa-larga-rias-baixas-blanco-2023"
+    ],
+    "summary": "Rias Baixas white from 95% Albarino and 5% Treixadura, organically farmed in Condado do Tea on granitic sandy soils and fermented with indigenous yeasts. Described as fresh, creamy, mineral, slightly saline, and versatile with seafood, paella, creamy seafood pasta, grilled vegetables, poultry, lighter pork, cured meats, aged cheeses, fried chicken, and herbal or citrus salads."
+  },
+  {
+    "id": "seagrape-domaine-saint-bacchi-cuvee-carpe-diem",
+    "source": "Sea Grape Wine Shop",
+    "folder": "/Users/zbkutlow/Library/Mobile Documents/com~apple~CloudDocs/Seagrape Wines",
+    "file": "Seagrape wines 2.pdf",
+    "page": 2,
+    "producer": "Domaine Saint Bacchi",
+    "name": "Cuvee Carpe Diem",
+    "vintage": 2014,
+    "country": "France",
+    "region": "Provence",
+    "varietals": [
+      "Alicante Bouschet"
+    ],
+    "matchedWineIds": [
+      "legacy-7"
+    ],
+    "summary": "Deeply colored 100% Alicante Bouschet with ripe blackberry, blackcurrant, plum, pepper, licorice, garrigue, earthy vegetal undertones, full body, powerful tannins, lively acidity, and intense dark fruit with spice and earth. Pair with steak, lamb, game, beef bourguignon, cassoulet, rosemary and thyme, olives, sun-dried tomatoes, strong aged cheeses, roasted root vegetables, or lentils."
+  }
+]

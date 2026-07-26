@@ -1,0 +1,1078 @@
+[
+  {
+    "id": "legacy-1",
+    "name": "StoneCap Riesling",
+    "vintage": 2023,
+    "producer": "StoneCap / Ridge Vineyards Selection",
+    "varietal": "Riesling",
+    "region": "Columbia Valley",
+    "country": "USA 🇺🇸",
+    "style": "White",
+    "alcohol": "~11.5%",
+    "drinkWindow": "Now–2028",
+    "estimatedPrice": "$15–18",
+    "agePotential": "3–5 yrs",
+    "occasion": "🌹 Tonight",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "White peach, apricot, jasmine blossom, lime zest, subtle honeycomb, faint wet slate",
+      "palate": "Off-dry with vibrant acidity, stone fruit leading to citrus pith, light petrol whisper (classic Riesling), clean mineral finish",
+      "finish": "Medium-long, refreshing, slightly sweet fade"
+    },
+    "forCalAusWineLover": "Washington Riesling sits between Clare Valley (Australia) and Alsace in style — riper than Clare, less weighty than Alsace. Lower alcohol than any Chardonnay you know. Think of it as a sophisticated, aromatic alternative to Pinot Grigio.",
+    "pairings": [
+      "Aperitivo / sipping alone",
+      "Thai / Vietnamese food",
+      "Sushi & sashimi",
+      "Soft cheeses",
+      "Light seafood"
+    ],
+    "notes": "Serve at 8–10°C. Great value for what's in the glass.",
+    "legacyId": 1,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2028",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-18T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-2",
+    "name": "Bonea",
+    "vintage": "NV",
+    "producer": "Masseria Frattasi",
+    "varietal": "Falanghina",
+    "region": "Sannio / Campania",
+    "country": "Italy 🇮🇹",
+    "style": "White",
+    "alcohol": "~13%",
+    "drinkWindow": "Now–2026",
+    "estimatedPrice": "$20–28",
+    "agePotential": "2–3 yrs",
+    "occasion": "🍋 Drink Soon",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Citrus blossom, green apple, white peach, light honey, saline mineral edge",
+      "palate": "Medium body, lively acidity, stone fruit mid-palate, slightly waxy texture, clean herbal finish",
+      "finish": "Crisp and refreshing with a mineral lift"
+    },
+    "forCalAusWineLover": "Think richer and more characterful than Pinot Grigio, but less tropical than an Aussie Chardonnay. Falanghina is an ancient Southern Italian grape — it's what the Romans actually drank.",
+    "pairings": [
+      "Seafood & shellfish",
+      "Light pasta (clam / seafood)",
+      "Caprese salad",
+      "Aperitivo boards",
+      "Grilled fish"
+    ],
+    "notes": "Campania's most underrated white grape. Drink relatively young.",
+    "legacyId": 2,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2026",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-18T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-3",
+    "name": "Bugey Pinot Noir 'Le Morillon'",
+    "vintage": 2023,
+    "producer": "Yves Duport",
+    "varietal": "Pinot Noir",
+    "region": "Bugey, Ain",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~12%",
+    "drinkWindow": "Now–2026",
+    "estimatedPrice": "$25–32",
+    "agePotential": "2–3 yrs",
+    "occasion": "🍷 Casual",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Red cherry, raspberry, violet, light earth, subtle floral lift",
+      "palate": "Very light body, silky tannins, high acid, strawberry and cherry fruit, almost translucent in character",
+      "finish": "Short-medium, clean, refreshing"
+    },
+    "forCalAusWineLover": "Nothing like a Russian River or Yarra Valley Pinot. Bugey is a tiny French region near the Alps. Think halfway between a rosé and a Burgundy — delicate to the point of being fragile.",
+    "pairings": [
+      "Charcuterie boards",
+      "Duck confit",
+      "Mushroom dishes",
+      "Sipping lightly chilled"
+    ],
+    "notes": "Bugey is one of France's most obscure appellations. A curiosity bottle.",
+    "legacyId": 3,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2026",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-4",
+    "name": "Cabernet Franc",
+    "vintage": 2019,
+    "producer": "Vinitrio",
+    "varietal": "Cabernet Franc",
+    "region": "France (likely Loire)",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~13%",
+    "drinkWindow": "Now–2027",
+    "estimatedPrice": "$20–28",
+    "agePotential": "3–5 yrs",
+    "occasion": "🍷 Drink Now",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Pencil shavings, green bell pepper, blackcurrant leaf, dark cherry, earthy undertone",
+      "palate": "Medium body, fine tannins, red and dark fruit, characteristic herbaceous edge, medium acidity",
+      "finish": "Medium, slightly savory, fades with a leafy herb note"
+    },
+    "forCalAusWineLover": "Cab Franc from the Loire is what Merlot wishes it could be — more herbal and less plummy than Napa. The 'green' quality is intentional and celebrated here.",
+    "pairings": [
+      "Roasted lamb",
+      "Grilled duck",
+      "Goat cheese",
+      "Mushroom risotto",
+      "Charcuterie"
+    ],
+    "notes": "2019 was an excellent vintage in the Loire. Probably at or near peak now.",
+    "legacyId": 4,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2027",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-5",
+    "name": "Langhe Nebbiolo",
+    "vintage": "Recent",
+    "producer": "Cantina Parroco (Azienda San Michele)",
+    "varietal": "Nebbiolo",
+    "region": "Langhe, Piedmont",
+    "country": "Italy 🇮🇹",
+    "style": "Red",
+    "alcohol": "~14%",
+    "drinkWindow": "Now–2030",
+    "estimatedPrice": "$20–30",
+    "agePotential": "5–8 yrs",
+    "occasion": "🍖 Food Wine Only",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Rose petal, tar, cherry, dried herbs, violets, faint anise",
+      "palate": "High tannins, high acidity, red cherry and raspberry fruit, austere and structured",
+      "finish": "Long, drying, bitter cherry note (classic Nebbiolo signature)"
+    },
+    "forCalAusWineLover": "Nebbiolo is the polar opposite of a big Napa Cab. It looks pale but hits you with tannins and acid. It's the grape behind Barolo — 'the King of Italian wine'.",
+    "pairings": [
+      "Braised beef / osso buco",
+      "Truffle pasta",
+      "Mushroom dishes",
+      "Aged hard cheeses",
+      "Lamb"
+    ],
+    "notes": "⚠️ Do NOT drink alone or without food. Save for a dinner with red meat or pasta.",
+    "legacyId": 5,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2030",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-6",
+    "name": "Bourgogne Passetoutgrain",
+    "vintage": 2022,
+    "producer": "Domaine Vincent Prunier",
+    "varietal": "Gamay + Pinot Noir (blend)",
+    "region": "Burgundy",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~12.5%",
+    "drinkWindow": "Now–2026",
+    "estimatedPrice": "$22–30",
+    "agePotential": "2–4 yrs",
+    "occasion": "🍷 Weeknight",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Fresh red berry, violet, light earth, faint barnyard, cranberry",
+      "palate": "Light-medium body, juicy acidity, red fruit forward (Gamay influence), more structure from Pinot Noir backbone",
+      "finish": "Light, slightly earthy, clean"
+    },
+    "forCalAusWineLover": "Entry-level Burgundy blend — Gamay plus Pinot Noir. Think lighter, more acidic, less fruit-forward Pinot than what you're used to.",
+    "pairings": [
+      "Roast chicken",
+      "Charcuterie",
+      "Light cheese plates",
+      "Weeknight dinners"
+    ],
+    "notes": "Drink relatively soon. Serve slightly chilled.",
+    "legacyId": 6,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2026",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-7",
+    "name": "Cuvée Carpe Diem Rouge",
+    "vintage": 2014,
+    "producer": "Saint Bacchi (winemaker: Christian)",
+    "varietal": "Alicante Bouschet (100%)",
+    "region": "Provence",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~13.5%",
+    "drinkWindow": "Now–2028",
+    "estimatedPrice": "$24.99",
+    "agePotential": "10+ yrs",
+    "occasion": "🌟 Special",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Ripe blackberry, blackcurrant, plum, pepper, licorice, garrigue, earthy vegetal undertones",
+      "palate": "Deeply colored and full-bodied, with intense dark fruit, spice, earth, lively acidity, and powerful but balanced tannins",
+      "finish": "Long, dark, savory, and spiced, with a dry Provençal herbal close"
+    },
+    "forCalAusWineLover": "Think Petite Sirah with more garrigue and earth. Alicante Bouschet is a teinturier grape — the flesh itself is red, almost unique in the wine world. This is a powerful southern French natural red, but the Seagrape note frames it around acidity, spice, and savory structure rather than simple extraction.",
+    "pairings": [
+      "Steak",
+      "Lamb",
+      "Game",
+      "Beef bourguignon / cassoulet",
+      "Mediterranean dishes with rosemary, thyme, olives, or sun-dried tomatoes",
+      "Strong aged cheeses",
+      "Roasted root vegetables or lentils"
+    ],
+    "notes": "🌿 Natural & Organic. Seagrape identifies this matching bottle as Domaine Saint Bacchi Cuvée Carpe Diem 2014 from Provence, 100% Alicante Bouschet. Expect a deeply colored, structured wine that wants robust savory food.",
+    "legacyId": 7,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2028",
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape wines 2.pdf",
+        "page": 2,
+        "matchedOn": "producer, cuvee name, grape, country",
+        "note": "Source page gives 2014 vintage, Provence region, 100% Alicante Bouschet, tasting notes, and food pairings."
+      }
+    ],
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-8",
+    "name": "Chinon 'Le Grand Bouqueteau'",
+    "vintage": "NV",
+    "producer": "Château du Coudray-Montpensier",
+    "varietal": "Cabernet Franc",
+    "region": "Chinon, Loire Valley",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~12.5%",
+    "drinkWindow": "Now–2027",
+    "estimatedPrice": "$22–32",
+    "agePotential": "3–5 yrs",
+    "occasion": "🍷 Dinner",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Blackcurrant, pencil lead, violet, slight earthiness, fresh herbs",
+      "palate": "Medium body, grippy but fine tannins, dark cherry and currant fruit, classic Loire herbal thread throughout",
+      "finish": "Medium-long, earthy, graphite mineral note"
+    },
+    "forCalAusWineLover": "Chinon is the heartland of Cab Franc. Think of it as a more intellectual, food-friendly alternative to Merlot — not about power, about precision.",
+    "pairings": [
+      "Goat cheese (iconic pairing)",
+      "Rack of lamb",
+      "Rillettes / charcuterie",
+      "Salmon",
+      "Roasted vegetables"
+    ],
+    "notes": "Classic Loire Cab Franc from a historic château.",
+    "legacyId": 8,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2027",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-9",
+    "name": "Sancerre 'La Forêt Gasselin'",
+    "vintage": 2019,
+    "producer": "Régis & Laurent Godelu",
+    "varietal": "Pinot Noir (Red Sancerre)",
+    "region": "Sancerre, Loire Valley",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~12.5%",
+    "drinkWindow": "Now–2027",
+    "estimatedPrice": "$35–50",
+    "agePotential": "3–5 yrs",
+    "occasion": "🌟 Special",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Cherry, crushed raspberry, red plum, strawberry, violet, pepper, toast, cardamom, subtle spice",
+      "palate": "Light-bodied and fresh, with red cherry, cassis, raspberry, clay-limestone minerality, refined tannins, and bright acidity",
+      "finish": "Persistent and mineral, with sweet spice, ripe almond, and a very subtle chocolate suggestion"
+    },
+    "forCalAusWineLover": "Red Sancerre is one of France's best-kept secrets. Nothing like a California Pinot — lighter, more translucent, and driven by limestone minerality and acidity. The Seagrape note for the matching Godelu La Foret Gasselin emphasizes fruit-forward cherry and raspberry, but still in a lean, precise Loire frame.",
+    "pairings": [
+      "Lightly grilled or roasted poultry",
+      "Duck breast",
+      "Pork tenderloin",
+      "Salmon or fatty fish",
+      "Charcuterie and soft cheeses",
+      "Mushroom dishes",
+      "Light pasta",
+      "Leaner burgers"
+    ],
+    "notes": "Seagrape identifies the matching Godelu La Foret Gasselin Sancerre Rouge as 2019. Sustainable practices are noted, with Pinot Noir grown on clay-limestone soils. Serve lightly chilled, around 14°C.",
+    "legacyId": 9,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2027",
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape Wines.pdf",
+        "page": 6,
+        "matchedOn": "producer, cuvee/site name, appellation, grape",
+        "note": "Source page gives 2019 vintage, red Sancerre context, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-10",
+    "name": "Malbec",
+    "vintage": 2015,
+    "producer": "Château Lagrezette",
+    "varietal": "Malbec (Côt)",
+    "region": "Cahors, Southwest France",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~14.5%",
+    "drinkWindow": "Now–2030",
+    "estimatedPrice": "$45–65",
+    "agePotential": "8–12 yrs",
+    "occasion": "🏆 Cellar Gem",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Dark plum, blackberry, leather, tobacco, dried violets, hints of truffle and earth",
+      "palate": "Full body, now-integrated tannins (10 years!), dark fruit, chocolate, earthy complexity, excellent structure",
+      "finish": "Long and lingering, with a dry, earthy, slightly tannic close"
+    },
+    "forCalAusWineLover": "Argentine Malbec is all ripe, juicy, plummy fruit. Cahors Malbec (the original) is darker, more structured, earthy, serious — think less Napa Cab, more Bordeaux Left Bank. At 10 years old, drinking beautifully.",
+    "pairings": [
+      "Duck confit",
+      "Cassoulet",
+      "Steak / red meat",
+      "Aged hard cheeses",
+      "Lamb"
+    ],
+    "notes": "🏆 Your best bottle. 2015 was an exceptional Cahors vintage. Save for a real occasion.",
+    "legacyId": 10,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2030",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-11",
+    "name": "Saldo Zinfandel",
+    "vintage": "Current",
+    "producer": "The Prisoner Wine Company",
+    "varietal": "Zinfandel (+ Petite Sirah)",
+    "region": "California",
+    "country": "USA 🇺🇸",
+    "style": "Red",
+    "alcohol": "~15.5%",
+    "drinkWindow": "Now–2027",
+    "estimatedPrice": "$30–35",
+    "agePotential": "3–5 yrs",
+    "occasion": "🍷 Casual",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Jammy blackberry, raspberry compote, dark cherry, black pepper, vanilla oak, mocha",
+      "palate": "Full body, velvety tannins, ripe and generous dark fruit, baking spice, chocolate mid-palate — bold California Zin, plush and crowd-pleasing",
+      "finish": "Long, warm, fruit-forward with a peppery heat from the alcohol"
+    },
+    "forCalAusWineLover": "Home turf — you know this style cold. Saldo is The Prisoner's flagship Zin made from old-vine California fruit blended with Petite Sirah for structure. It's the California expression at its most confident. Think of it as the Shiraz equivalent in American terms.",
+    "pairings": [
+      "BBQ ribs / brisket",
+      "Burgers",
+      "Pepperoni pizza",
+      "Aged cheddar",
+      "Braised short ribs",
+      "Spiced lamb"
+    ],
+    "notes": "⚠️ High alcohol ~15.5%. Decant 30 mins. Best with food rather than solo sipping.",
+    "legacyId": 11,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2027",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-12",
+    "name": "Nozzole Chianti Classico Riserva",
+    "vintage": 2022,
+    "producer": "Tenuta di Nozzole",
+    "varietal": "Sangiovese (~90%) + Merlot / Colorino",
+    "region": "Chianti Classico, Tuscany",
+    "country": "Italy 🇮🇹",
+    "style": "Red",
+    "alcohol": "~13.5%",
+    "drinkWindow": "2025–2033",
+    "estimatedPrice": "$28–38",
+    "agePotential": "8–10 yrs",
+    "occasion": "🌟 Special",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Dried cherry, leather, tobacco, dried violet, earthy iron note, subtle balsamic, light cedar",
+      "palate": "Medium-full body, firm Sangiovese tannins, bright acidity, sour cherry and plum fruit, herbal savouriness — structured and food-driven",
+      "finish": "Long, dry, earthy — bitter cherry close that screams for food"
+    },
+    "forCalAusWineLover": "Sangiovese is nothing like Cabernet — high acid, high tannin, sour cherry fruit, very savory and dry. 'Riserva' means aged longer, minimum 24 months. Think of it as what Pinot Noir would be if it went to Italy, got angrier, and insisted on being eaten with food.",
+    "pairings": [
+      "Bistecca Fiorentina",
+      "Pasta with ragù / bolognese",
+      "Margherita pizza",
+      "Aged Pecorino",
+      "Roasted lamb",
+      "Wild boar"
+    ],
+    "notes": "Decant 45 mins. Has significant aging potential — could be even better in 3–5 years.",
+    "legacyId": 12,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "2025–2033",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-13",
+    "name": "Sonoma Coast Pinot Noir",
+    "vintage": 2023,
+    "producer": "La Crema",
+    "varietal": "Pinot Noir",
+    "region": "Sonoma Coast",
+    "country": "USA 🇺🇸",
+    "style": "Red",
+    "alcohol": "~13.5%",
+    "drinkWindow": "Now–2028",
+    "estimatedPrice": "$25–30",
+    "agePotential": "3–5 yrs",
+    "occasion": "🍷 Casual",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Red cherry, raspberry, cranberry, light vanilla oak, dried rose petal, subtle forest floor",
+      "palate": "Medium body, silky tannins, bright acidity, red fruit driven — more restrained and coastal than Russian River, less jam, more finesse",
+      "finish": "Medium, clean, slightly spiced, lingering cranberry note"
+    },
+    "forCalAusWineLover": "You know this territory well. Sonoma Coast is cooler and more maritime than Russian River — you get more freshness and less ripeness. La Crema is consistent, food-friendly, every-night Pinot. Not trying to be Kosta Browne — just reliable and well-made.",
+    "pairings": [
+      "Salmon / halibut",
+      "Roast chicken",
+      "Duck breast",
+      "Mushroom risotto",
+      "Charcuterie",
+      "Soft cheese"
+    ],
+    "notes": "Very young — 2023 only just released. Give it 6–12 months to open up. Serve around 15–16°C.",
+    "legacyId": 13,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2028",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-14",
+    "name": "Villa Antinori Bianco",
+    "vintage": 2024,
+    "producer": "Marchesi Antinori",
+    "varietal": "Trebbiano Toscano, Malvasia, Pinot Bianco, Chardonnay (blend)",
+    "region": "Toscana IGT",
+    "country": "Italy 🇮🇹",
+    "style": "White",
+    "alcohol": "~12.5%",
+    "drinkWindow": "Now–2026",
+    "estimatedPrice": "$15–20",
+    "agePotential": "1–2 yrs",
+    "occasion": "🍋 Drink Soon",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Fresh green apple, lemon zest, white flower, subtle almond, light herbal notes — clean and delicate",
+      "palate": "Light body, crisp and refreshing acidity, citrus and stone fruit, slightly nutty mid-palate, dry finish with a classic Italian bitter almond close",
+      "finish": "Short-medium, clean, bright — ends with a pleasant bitter citrus pith note"
+    },
+    "forCalAusWineLover": "Think lighter and more herbal than a California Sauvignon Blanc, and less aromatic than a Clare Valley Riesling. This is quintessential everyday Italian white — unpretentious, refreshing, built for the table. Antinori is a 600-year-old Florentine family, 26 generations of winemaking — this is their crowd-pleaser entry point.",
+    "pairings": [
+      "Aperitivo",
+      "Light antipasti",
+      "Grilled fish",
+      "Seafood pasta",
+      "Caprese salad",
+      "Light risotto"
+    ],
+    "notes": "2024 is extremely fresh — literally just bottled. Drink within 1–2 years. Great value for the Antinori name. Serve well chilled at 8°C.",
+    "legacyId": 14,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2026",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-15",
+    "name": "Limizzani Vermentino di Gallura",
+    "vintage": "Recent",
+    "producer": "Cantina Surrau",
+    "varietal": "Vermentino (100%)",
+    "region": "Gallura, Sardinia",
+    "country": "Italy 🇮🇹",
+    "style": "White",
+    "alcohol": "~14%",
+    "drinkWindow": "Now–2027",
+    "estimatedPrice": "$22–30",
+    "agePotential": "3–4 yrs",
+    "occasion": "🌟 Special",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Citrus blossom, lime zest, white peach, saline sea breeze, light herbal/maquis scrub, faint floral lift",
+      "palate": "Medium-full body (bigger than it looks), vibrant acidity, stone fruit and citrus pith, pronounced salty/saline mineral quality from granite soils — a genuine sense of place",
+      "finish": "Medium-long, clean, with a characteristic bitter almond and sea-salt close — very distinctive"
+    },
+    "forCalAusWineLover": "Vermentino di Gallura is Sardinia's only DOCG — the island's highest quality designation, reserved for this one grape from this one region. Surrau is one of Gallura's benchmark producers. Think of it like a coastal Clare Valley Riesling crossed with a mineral Sancerre, but with more body and a salty Mediterranean edge that you won't find anywhere else. The granite soils give it a texture and salinity that is genuinely unlike anything from California or Australia.",
+    "pairings": [
+      "Fresh oysters",
+      "Grilled sea bass / branzino",
+      "Lobster / scampi",
+      "Spaghetti alle vongole",
+      "Bottarga",
+      "Light summer aperitivo"
+    ],
+    "notes": "🌊 One of the most characterful whites in your collection. That saline, bitter-almond finish is polarising for some, beloved by others — it's 100% intentional. Serve cold at 8–10°C. A great bottle to open with seafood this summer.",
+    "legacyId": 15,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2027",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-16",
+    "name": "Côtes du Rhône",
+    "vintage": 2021,
+    "producer": "Domaine La Bouïssière",
+    "varietal": "Grenache, Syrah, Mourvèdre (GSM blend)",
+    "region": "Côtes du Rhône (based in Gigondas)",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~14%",
+    "drinkWindow": "Now–2028",
+    "estimatedPrice": "$18–25",
+    "agePotential": "4–6 yrs",
+    "occasion": "🍷 Dinner",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Ripe red cherry, garrigue (wild Provençal herbs — thyme, rosemary, lavender), black olive, white pepper, sun-baked earth, a hint of smoked meat",
+      "palate": "Medium-full body, soft rounded tannins, dark cherry and plum fruit, fresh acidity lifting it up, beautiful herbal savouriness running through the mid-palate",
+      "finish": "Medium-long, warm, earthy, fading with dried herbs and a touch of spice"
+    },
+    "forCalAusWineLover": "Southern Rhône Grenache is like if you took a Sonoma Coast Pinot Noir, made it richer and more savory, added Provençal garrigue herbs, and baked it in Mediterranean sunshine. La Bouïssière is actually based in Gigondas — one of the Rhône's most respected villages — so this Côtes du Rhône is made by people with serious pedigree. It punches well above its appellation. Think of it as an Australian GSM (Grenache-Shiraz-Mourvèdre) but with more earthiness and less fruit-bomb intensity.",
+    "pairings": [
+      "Roast lamb / lamb chops",
+      "Herbed chicken",
+      "Ratatouille",
+      "Grilled sausages",
+      "Aged cheese boards",
+      "Beef stew"
+    ],
+    "notes": "2021 was a solid Rhône vintage with good natural acidity. Thierry and Gilles Faravel are respected growers who sell most of their fruit for Gigondas AOC — this CDR is their entry point and it overdelivers. Decant 20 mins.",
+    "legacyId": 16,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2028",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-17",
+    "name": "Grüner Veltliner 'Ried Kremser Kogl'",
+    "vintage": "Recent",
+    "producer": "Weingut Forstreiter",
+    "varietal": "Grüner Veltliner (100%)",
+    "region": "Kremstal DAC, Austria",
+    "country": "Austria 🇦🇹",
+    "style": "White",
+    "alcohol": "~12.5%",
+    "drinkWindow": "Now–2029",
+    "estimatedPrice": "$22–30",
+    "agePotential": "5–7 yrs",
+    "occasion": "🌟 Special",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "White pepper (the defining GV signature), grapefruit zest, green herb, wet stone minerality, subtle citrus blossom, lemon curd",
+      "palate": "Medium body, laser-focused acidity, citrus and stone fruit, stony mineral texture from the loess and primary rock soils of Kremstal — 'Ried' (single vineyard) quality shows in the precision and length",
+      "finish": "Long, clean, mineral, with that distinctive white pepper spice lingering"
+    },
+    "forCalAusWineLover": "Grüner Veltliner has no real equivalent in California or Australia — it's Austria's signature white grape and utterly unique. The white pepper note is completely its own thing, not found in any other variety. If you had to anchor it: think a more savory, spicier, more mineral Sauvignon Blanc without the tropical fruit. 'DAC' (Districtus Austriae Controllatus) is Austria's top quality classification. 'Ried Kremser Kogl' is a specific single vineyard — a step above entry-level GV in complexity and ageability. Forstreiter has been farming in Krems since 1909.",
+    "pairings": [
+      "Wiener Schnitzel (the classic Austrian pairing)",
+      "Grilled trout / salmon",
+      "White asparagus",
+      "Sushi",
+      "Goat cheese",
+      "Light vegetable dishes"
+    ],
+    "notes": "🇦🇹 Your most unusual and educational bottle — the only Austrian wine in the collection. GV is a great next step in Old World whites after Riesling. Serve at 10°C. Has genuine aging potential — could develop interestingly over 3–5 years.",
+    "legacyId": 17,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2029",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "legacy-18",
+    "name": "Lambrusco Emilia",
+    "vintage": "NV",
+    "producer": "Puianello",
+    "varietal": "Lambrusco (blend)",
+    "region": "Emilia, Emilia-Romagna",
+    "country": "Italy 🇮🇹",
+    "style": "Sparkling",
+    "alcohol": "~8–11%",
+    "drinkWindow": "Now–2026",
+    "estimatedPrice": "$12–18",
+    "agePotential": "1–2 yrs",
+    "occasion": "🍷 Casual",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Fresh dark cherry, blackberry, violets, light earthiness, a faint tartness — bright and playful",
+      "palate": "Light to medium body, gentle fizz (frizzante), fresh dark fruit, low tannins, vibrant acidity, slightly sweet or off-dry — easy and immediately appealing",
+      "finish": "Short, clean, refreshing — more about fun than complexity"
+    },
+    "forCalAusWineLover": "There is genuinely nothing like Lambrusco in California or Australia. It's a slightly fizzy, low-alcohol red from the Po Valley — the same region that gave the world Prosciutto di Parma, Mortadella, and Parmigiano Reggiano. It was literally designed to cut through rich charcuterie and fatty food. Think of it as what would happen if Beaujolais Nouveau got lightly sparkling and went to an Italian picnic. Serve it cold — yes, cold, unlike most reds — and don't overthink it.",
+    "pairings": [
+      "Prosciutto / salumi boards",
+      "Pizza",
+      "Mortadella",
+      "Fried food",
+      "Casual picnics",
+      "Summer BBQ appetizers"
+    ],
+    "notes": "🫧 Your first sparkling in the collection. Low alcohol, drink young, serve cold (12°C). This is a fun, unpretentious bottle — not for analysis, for enjoyment. Pop it at the start of a dinner party.",
+    "legacyId": 18,
+    "quantity": 1,
+    "legacyStatus": "in-cellar",
+    "drinkWindowText": "Now–2026",
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "id": "cantine-olivella-lacrimabianco",
+    "name": "Lacrimabianco",
+    "producer": "Cantine Olivella",
+    "vintage": 2023,
+    "varietal": "Caprettone (80%) + Catalanesca (20%)",
+    "varietals": [
+      "Caprettone",
+      "Catalanesca"
+    ],
+    "region": "Vesuvio, Campania",
+    "country": "Italy 🇮🇹",
+    "style": "White",
+    "alcohol": "13%",
+    "drinkWindow": "Now–2030",
+    "estimatedPrice": "$16–25",
+    "agePotential": "3–5 yrs",
+    "occasion": "🍋 Drink Soon",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Golden apple, yellow peach, white flowers, flinty volcanic minerality, faint smoky edge",
+      "palate": "Rounded, almost creamy Caprettone texture balanced by Catalanesca's zesty citrus tension, saline volcanic minerality, and savory freshness",
+      "finish": "Dry, long, and mineral, with crushed stone, citrus, and Mediterranean salinity"
+    },
+    "forCalAusWineLover": "A volcanic Campanian white rather than a fruit-driven New World white. Caprettone brings body and structure; Catalanesca adds acidity and aromatic lift. Think lighter than California Chardonnay, less overtly aromatic than Riesling, and more mineral and saline than most Pinot Grigio.",
+    "pairings": [
+      "Grilled octopus",
+      "Sea bass baked in salt",
+      "Spaghetti alle vongole",
+      "Seafood antipasti",
+      "Pasta with zucchini flowers and provolone",
+      "Caprese with buffalo mozzarella",
+      "Grilled vegetables"
+    ],
+    "notes": "Label visible in photo: Vesuvio Lacryma Christi Bianco Denominazione di Origine Protetta. Seagrape's matching Lacrima Bianco page identifies the wine as 2023 from Campania, grown in the volcanic landscape around Mount Somma and Vesuvius, with an 80% Caprettone / 20% Catalanesca blend.",
+    "quantity": 1,
+    "drinkWindowText": "Now–2030",
+    "photos": {
+      "frontLabel": "/photos/img-3442-new-bottles.jpeg"
+    },
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape 3.pdf",
+        "page": 2,
+        "matchedOn": "producer, wine name, appellation, grape blend",
+        "note": "Source page gives 2023 vintage, Campania region, blend, volcanic terroir, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "melaric-le-tandem-l23",
+    "name": "Le Tandem L23",
+    "producer": "Melaric",
+    "vintage": 2023,
+    "varietal": "Cabernet Franc (50%) + Grolleau (50%)",
+    "varietals": [
+      "Cabernet Franc",
+      "Grolleau"
+    ],
+    "region": "Loire Valley / Vin de France",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "~12–13.5%",
+    "drinkWindow": "Now–2028",
+    "estimatedPrice": "$20–25",
+    "agePotential": "3–5 yrs",
+    "occasion": "🍷 Casual",
+    "status": "in_cellar",
+    "tastingNotes": {
+      "nose": "Raspberry, sour cherry, cranberry, hibiscus or violet, and a subtle peppery edge",
+      "palate": "Light to medium-bodied, dry, pure, and juicy, with bright red fruit, remarkable freshness, soft supple tannins, and natural Loire acidity",
+      "finish": "Smooth and clean, with snappy red fruit, floral lift, and peppery freshness"
+    },
+    "forCalAusWineLover": "This is Loire natural-wine territory: lighter, fresher, and more herbal than California Cabernet Franc, with Grolleau adding snappy red fruit and vibrant acidity. Serve slightly chilled and do not expect polish or oak; the appeal is freshness, purity, and easy vin de plaisir drinkability.",
+    "pairings": [
+      "Charcuterie and pâté",
+      "Creamy salads",
+      "Camembert or mild goat cheese",
+      "Mushroom dishes",
+      "Light poultry",
+      "Simple grilled pork",
+      "Red-fruit sauces",
+      "Herbaceous seasonings"
+    ],
+    "notes": "Label visible in photo: Melaric Le Tandem L23, Vin de France. Seagrape's matching page identifies L23 as the 2023 vintage and describes a light-bodied Cabernet Franc/Grolleau Loire red from Saumur-area vineyards, made with native yeasts, minimal intervention, and very little sulfur before bottling.",
+    "quantity": 1,
+    "drinkWindowText": "Now–2028",
+    "photos": {
+      "frontLabel": "/photos/img-3442-new-bottles.jpeg"
+    },
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape 3.pdf",
+        "page": 1,
+        "matchedOn": "producer, wine name, L23 lot code, grape blend",
+        "note": "Source page gives L23 as the 2023 vintage, Loire/Saumur context, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-13T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "historical-domaine-chavy-bourgogne-blanc-2021",
+    "name": "Bourgogne Blanc",
+    "producer": "Domaine Chavy",
+    "vintage": 2021,
+    "varietal": "Chardonnay",
+    "varietals": [
+      "Chardonnay"
+    ],
+    "region": "Burgundy",
+    "country": "France 🇫🇷",
+    "style": "White",
+    "alcohol": "",
+    "drinkWindow": "",
+    "estimatedPrice": "",
+    "agePotential": "",
+    "occasion": "📖 Historical",
+    "status": "drunk",
+    "tastingNotes": {
+      "nose": "Citrus, white floral aromas, mineral notes, and subtle oak influence",
+      "palate": "Dry and elegant, with crisp acidity, medium body, smooth texture, and balanced Chardonnay fruit",
+      "finish": "Clean, mineral, and gently textured"
+    },
+    "forCalAusWineLover": "A classic entry white Burgundy: Chardonnay, but more limestone-driven, restrained, and mineral than a richer California expression. The Seagrape page frames it as approachable but still recognizably Burgundian.",
+    "pairings": [
+      "Grilled white fish",
+      "Shellfish",
+      "Roasted poultry with herbs or lemon",
+      "Asparagus",
+      "Mushroom risotto",
+      "Soft cheeses",
+      "Butter or citrus sauces"
+    ],
+    "notes": "Historical Seagrape page added as a drunk bottle per user instruction. The PDF describes this as Domaine Chavy Bourgogne Blanc 2021, a 100% Chardonnay from Burgundy.",
+    "quantity": 0,
+    "drunkDate": null,
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape Wines.pdf",
+        "page": 1,
+        "matchedOn": "historical PDF page; no existing cellar match",
+        "note": "Source page gives producer, wine name, 2021 vintage, Burgundy region, Chardonnay grape, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "historical-chameau-balland-maison-blanche-sancerre-rouge-2021",
+    "name": "La Maison Blanche Sancerre Rouge",
+    "producer": "Chameau Balland et Fils",
+    "vintage": 2021,
+    "varietal": "Pinot Noir",
+    "varietals": [
+      "Pinot Noir"
+    ],
+    "region": "Sancerre, Loire Valley",
+    "country": "France 🇫🇷",
+    "style": "Red",
+    "alcohol": "",
+    "drinkWindow": "",
+    "estimatedPrice": "",
+    "agePotential": "",
+    "occasion": "📖 Historical",
+    "status": "drunk",
+    "tastingNotes": {
+      "nose": "Violet, rose, cherry, raspberry, strawberry, blackberry, plum, earth, crushed rocks, pepper, and spice",
+      "palate": "Light to medium-bodied red Sancerre with fresh acidity, soft refined tannins, red and black fruit, and earthy mineral undertones",
+      "finish": "Fresh, balanced, and aromatic"
+    },
+    "forCalAusWineLover": "Another example of Loire Pinot Noir in the cellar history: lighter and more mineral than California Pinot, with bright acidity and a savory edge. Useful as a comparison point against the Godelu Sancerre Rouge.",
+    "pairings": [
+      "Veal",
+      "Poultry",
+      "Game",
+      "Braised or pan-seared meats",
+      "Salmon or tuna",
+      "Mushroom risotto",
+      "Charcuterie",
+      "Soft cheeses"
+    ],
+    "notes": "Historical Seagrape page added as a drunk bottle per user instruction. The PDF describes this as Chameau Balland et Fils La Maison Blanche Sancerre Rouge 2021 from Bue in the Loire Valley.",
+    "quantity": 0,
+    "drunkDate": null,
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape Wines.pdf",
+        "page": 2,
+        "matchedOn": "historical PDF page; no existing cellar match",
+        "note": "Source page gives producer, cuvee, 2021 vintage, region, Pinot Noir grape, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "historical-entre-cantos-martinolo-branco-2020",
+    "name": "Martinolo Branco",
+    "producer": "Entre Cantos",
+    "vintage": 2020,
+    "varietal": "Godello (85%) + Caiño Blanco (15%)",
+    "varietals": [
+      "Godello",
+      "Caiño Blanco"
+    ],
+    "region": "Galicia",
+    "country": "Spain 🇪🇸",
+    "style": "White",
+    "alcohol": "",
+    "drinkWindow": "",
+    "estimatedPrice": "",
+    "agePotential": "",
+    "occasion": "📖 Historical",
+    "status": "drunk",
+    "tastingNotes": {
+      "nose": "White melon, subtle floral notes, sandalwood spice, and a hint of bitter rind",
+      "palate": "Textured and mid-bodied, with restrained fruit, vibrant minerality, saline edge, and natural-wine complexity",
+      "finish": "Long, delicate, and slightly bitter"
+    },
+    "forCalAusWineLover": "A textured Galician white rather than a simple crisp seafood wine. Godello gives weight and shape while Caiño Blanco adds aromatic lift and acidity; the Seagrape page makes it sound more complex and savory than typical Albariño.",
+    "pairings": [
+      "Seafood",
+      "Grilled fish",
+      "Shellfish",
+      "Light poultry",
+      "Salty cheeses",
+      "Vegetable dishes"
+    ],
+    "notes": "Historical Seagrape page added as a drunk bottle per user instruction. The PDF describes this as Entre Cantos Martinolo Branco 2020 from Galicia, made from a Godello/Caiño Blanco blend.",
+    "quantity": 0,
+    "drunkDate": null,
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape Wines.pdf",
+        "page": 3,
+        "matchedOn": "historical PDF page; no existing cellar match",
+        "note": "Source page gives producer, wine name, 2020 vintage, Galicia region, grape blend, production notes, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "historical-marcobarba-barbarossa-rosso-2022",
+    "name": "Barbarossa Rosso",
+    "producer": "Marcobarba",
+    "vintage": 2022,
+    "varietal": "Cabernet Sauvignon, Corvina, Merlot, Rondinella, other unidentified grape varieties",
+    "varietals": [
+      "Cabernet Sauvignon",
+      "Corvina",
+      "Merlot",
+      "Rondinella"
+    ],
+    "region": "Veneto",
+    "country": "Italy 🇮🇹",
+    "style": "Red",
+    "alcohol": "",
+    "drinkWindow": "",
+    "estimatedPrice": "",
+    "agePotential": "",
+    "occasion": "📖 Historical",
+    "status": "drunk",
+    "tastingNotes": {
+      "nose": "Bright cherries, raspberries, strawberries, darker berries, earth, spice, cardamom, and balsamic or herbaceous hints",
+      "palate": "Juicy and medium-bodied, with lively acidity, soft tannins, fresh red fruit, earthy undertones, and natural-wine drinkability",
+      "finish": "Refreshing, lightly spiced, and savory"
+    },
+    "forCalAusWineLover": "A casual, biodynamic Veneto red blend with a natural-wine profile. Expect freshness and lift rather than heavy Amarone-style weight, with Italian brightness plus a little international-variety familiarity.",
+    "pairings": [
+      "Grilled lamb",
+      "Hearty bean stews",
+      "Pizza",
+      "Cured meats",
+      "Semi-aged cheeses"
+    ],
+    "notes": "Historical Seagrape page added as a drunk bottle per user instruction. The PDF links Marcobarba Barbarossa Rosso 2022 to the Marcobarba project and Menti Winery, with biodynamic/minimal-intervention framing.",
+    "quantity": 0,
+    "drunkDate": null,
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape Wines.pdf",
+        "page": 4,
+        "matchedOn": "historical PDF page; no existing cellar match",
+        "note": "Source page gives producer, wine name, 2022 vintage, Veneto region, grape blend, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "historical-marc-pesnot-la-boheme-2023",
+    "name": "La Boheme",
+    "producer": "Marc Pesnot",
+    "vintage": 2023,
+    "varietal": "Melon de Bourgogne",
+    "varietals": [
+      "Melon de Bourgogne"
+    ],
+    "region": "Loire / Pays Nantais",
+    "country": "France 🇫🇷",
+    "style": "White",
+    "alcohol": "",
+    "drinkWindow": "",
+    "estimatedPrice": "",
+    "agePotential": "",
+    "occasion": "📖 Historical",
+    "status": "drunk",
+    "tastingNotes": {
+      "nose": "White flowers, pear, green apple, subtle mineral notes, and buttery or honeyed undertones",
+      "palate": "Broad and creamy for Melon de Bourgogne, with elegant white fruit, succulent minerality, and vibrant acidity",
+      "finish": "Fresh, mineral, and gently rich"
+    },
+    "forCalAusWineLover": "A richer, more textured take on the grape behind Muscadet. The Seagrape note describes more creaminess and fruit than the classic lean oyster-shell style, while keeping Loire freshness.",
+    "pairings": [
+      "Oysters",
+      "Shellfish",
+      "Grilled or fried fish",
+      "Garden salads with creamy elements",
+      "Creamy clam chowder",
+      "Smoky bacon-accented dishes"
+    ],
+    "notes": "Historical Seagrape page added as a drunk bottle per user instruction. The PDF describes Marc Pesnot La Boheme 2023 as a Pays Nantais Melon de Bourgogne with a broad, creamy profile.",
+    "quantity": 0,
+    "drunkDate": null,
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape Wines.pdf",
+        "page": 5,
+        "matchedOn": "historical PDF page; no existing cellar match",
+        "note": "Source page gives producer, wine name, 2023 vintage, Loire region, grape, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  },
+  {
+    "id": "historical-destinos-cruzados-detras-da-casa-larga-rias-baixas-blanco-2023",
+    "name": "Detras Da Casa Larga Rias Baixas Blanco",
+    "producer": "Destinos Cruzados",
+    "vintage": 2023,
+    "varietal": "Albariño (95%) + Treixadura (5%)",
+    "varietals": [
+      "Albariño",
+      "Treixadura"
+    ],
+    "region": "Rías Baixas, Galicia",
+    "country": "Spain 🇪🇸",
+    "style": "White",
+    "alcohol": "",
+    "drinkWindow": "",
+    "estimatedPrice": "",
+    "agePotential": "",
+    "occasion": "📖 Historical",
+    "status": "drunk",
+    "tastingNotes": {
+      "nose": "Expressive citrus and coastal white-fruit freshness",
+      "palate": "Fresh, creamy, mineral, and slightly saline, with good natural acidity and expressive Galician character",
+      "finish": "Refreshing, mineral, and saline"
+    },
+    "forCalAusWineLover": "A Rías Baixas white in the Albariño family, but softened by a small Treixadura component. Expect coastal freshness and salinity, with a little more creaminess than a very lean Sauvignon Blanc.",
+    "pairings": [
+      "Galician-style octopus",
+      "Grilled fish",
+      "Scallops",
+      "Mussels",
+      "Clams",
+      "Oysters",
+      "Shrimp",
+      "Paella",
+      "Creamy seafood pasta",
+      "Fried chicken",
+      "Herbal or citrus salads"
+    ],
+    "notes": "Historical Seagrape page added as a drunk bottle per user instruction. The PDF describes this as Destinos Cruzados Detras Da Casa Larga Rias Baixas Blanco 2023 from Condado do Tea, made with 95% Albariño and 5% Treixadura.",
+    "quantity": 0,
+    "drunkDate": null,
+    "sourceReferences": [
+      {
+        "source": "Sea Grape Wine Shop",
+        "file": "Seagrape wines 2.pdf",
+        "page": 1,
+        "matchedOn": "historical PDF page; no existing cellar match",
+        "note": "Source page gives producer, wine name, 2023 vintage, Rias Baixas region, grape blend, farming/fermentation notes, tasting notes, and pairings."
+      }
+    ],
+    "createdAt": "2026-07-26T00:00:00.000Z",
+    "updatedAt": "2026-07-26T00:00:00.000Z"
+  }
+]

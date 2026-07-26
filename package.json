@@ -1,0 +1,28 @@
+{
+  "name": "wine-library",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:sites": "next build && node scripts/build-sites-static-worker.mjs",
+    "start": "next start",
+    "lint": "next lint",
+    "migrate:wines": "node scripts/migrate-wine-catalog.mjs",
+    "scan:seagrape": "node scripts/scan-seagrape-pdfs.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "next": "^15.4.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.8.0"
+  }
+}
